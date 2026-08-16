@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Dinner",
+        "amount": "1050",
+        "category": "Food",
+        "time": "2026-08-16 06:09:26",
+        "edit_time": "2026-08-16 07:05:09"
+    },
+    {
+        "title": "Taxi",
+        "amount": "90",
+        "category": "Transportation",
+        "time": "2026-08-16 06:12:31",
+        "edit_time": "2026-08-16 07:04:36"
+    },
+    {
+        "title": "breakfast",
+        "amount": "550",
+        "category": "Food",
+        "time": "2026-08-16 07:18:45",
+        "edit_time": "2026-08-16 07:59:02"
+    },
+    {
+        "title": "Lunch",
+        "amount": "1540",
+        "category": "Food",
+        "time": "2026-08-16 08:04:21",
+        "edit_time": "2026-08-16 08:04:59"
+    }
+]
